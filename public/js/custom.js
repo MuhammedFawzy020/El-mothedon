@@ -87,3 +87,9 @@ $('.slider').each(function() {
   
   advance();
 });
+
+$(document).ready(function(){
+  $(".q-header").click(function(){
+    $(this).parent().find(".q-body").slideToggle();
+  });
+});

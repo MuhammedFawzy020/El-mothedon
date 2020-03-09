@@ -44,11 +44,46 @@
 </div><!-- End // .directional_nav -->
 
 
-<div class="col-lg-12">
+<div class="col-lg-12" style="padding-bottom: 20px;">
     <div class="container">
         <div class="row">
             <div class="card col-lg-4">
-                <div class="col-lg-12"><img src="..." class="card-img-top" alt="..."></div>
+                <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
+              
+              <div class="card-body">
+                <h5 class="card-title">Oil & Gas</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="homeSectionCont" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+
+            <div class="card col-lg-4" >
+               <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Aviation</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+
+            <div class="card col-lg-4" >
+               <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Hospitality & Trading Agencies</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="col-lg-12" style="padding-bottom: 20px;">
+    <div class="container">
+        <div class="row">
+            <div class="card col-lg-4">
+                <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
               
               <div class="card-body">
                 <h5 class="card-title">Oil & Gas</h5>
@@ -58,7 +93,7 @@
             </div>
 
             <div class="card col-lg-4" >
-               <div class="col-lg-12"><img src="..." class="card-img-top" alt="..."></div>
+               <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">Aviation</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -67,7 +102,42 @@
             </div>
 
             <div class="card col-lg-4" >
-               <div class="col-lg-12"><img src="..." class="card-img-top" alt="..."></div>
+               <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Hospitality & Trading Agencies</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="col-lg-12" style="padding-bottom: 20px;">
+    <div class="container">
+        <div class="row">
+            <div class="card col-lg-4">
+                <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
+              
+              <div class="card-body">
+                <h5 class="card-title">Oil & Gas</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+
+            <div class="card col-lg-4" >
+               <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Aviation</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+              </div>
+            </div>
+
+            <div class="card col-lg-4" >
+               <img src="{{url('/')}}/img/matthew-ronder-seid-YMMCvPn05qY-unsplash.jpg" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">Hospitality & Trading Agencies</h5>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
